@@ -17,7 +17,7 @@ sudo apt-get install -y libgbm-dev wget unzip fontconfig locales gconf-service l
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 && sudo apt install ./google-chrome-stable_current_amd64.deb
 
-git clone https://github.com/detonaweb/DETONAWEBBOT.git && cd DETONAWEBBOT
+git clone https://github.com/detonaweb/GestorBot3.0-md.git && cd GestorBot3.0-md
 
 sh start.sh
 
