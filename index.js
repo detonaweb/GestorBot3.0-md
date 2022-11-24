@@ -30,7 +30,7 @@ prefix = setting.prefix
 
 banChats = nescessario.banChats 
 
-logo = logoslink.logo
+logo = "https://imageup.me/images/eee43aa9-3e91-4225-abbd-bf746e865bbb.jpeg"
 
 numbernye = '0'
 
@@ -44,36 +44,36 @@ ipvps = "144.217.119.64"
 uservps = "root"
 senhavps = "pbF%AS6R39"
 apipremium = "equipevipssh"
-linkapp = "https://play.google.com/store/apps/details?id=com.xconexaofast.apk"
-linkreve = "https://paste.anasor.com/paste.php?raw&id=22849"
+linkapp = "https://play.google.com/store/apps/details?id=com.scott.jheury"
+linkreve = "https://paste.anasor.com/paste.php?raw&id=340919"
 
 
 
 //plano1 1pessoa 30 dias\\
 
-valor1 = "R$ 20"
-linkpag ="https://paste.anasor.com/paste.php?raw&id=22846"
-delivery1 ="equipevip1"
+valor1 = "R$ 25"
+linkpag ="https://paste.anasor.com/paste.php?raw&id=340918"
+delivery1 ="TURBOVIP1"
 
 
 
 //plano2 2pessoas 30 dias\\
 
-valor2 = "R$ 35"
-linkpag2 ="https://paste.anasor.com/paste.php?raw&id=22846"
-delivery2 ="equipevip2"
+valor2 = "R$ 50"
+linkpag2 ="https://paste.anasor.com/paste.php?raw&id=340918"
+delivery2 ="TURBOVIP2"
 
 
 //plano3 3pessoas 30 dias\\
 
-valor3 = "R$ 46"
-linkpag3 ="https://paste.anasor.com/paste.php?raw&id=22846"
-delivery3 ="equipevip3"
+valor3 = "R$ 75"
+linkpag3 ="https://paste.anasor.com/paste.php?raw&id=340918"
+delivery3 ="TURBOVIP3"
 
 
 
 
-// Dúvidas contate 511958100839 \\
+// Dúvidas contate 513996474586 \\
 
 
 //============FIMM NÃO MECHA NO RESTO==================\\
