@@ -19,7 +19,7 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 git clone https://github.com/detonaweb/GestorBot3.0-md.git && cd GestorBot3.0-md
 
-sh start.sh
+cd GestorBot3.0-md && sh start.sh
 
 
 Após escanear o qr code pare o bot digitando ctrl+C e faça esses comandos 
